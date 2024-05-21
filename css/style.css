@@ -400,7 +400,7 @@ h3.my-profession
     border-radius: 5px;
     /*border-color: var(--skin-color);*/
     height: 100%;
-    width: 90%;
+    width: 140%;
     object-fit: cover;
     transform: scale(1.3);
 }
